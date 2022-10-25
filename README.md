@@ -17,7 +17,7 @@ The number of votes cast in this congressional election is 369,711.
 
 ![County Votes](https://github.com/irisyidi/Election_Analysis_Module-3/blob/main/County%20Votes.png)
 
-_County Votes Screenshot from results of code_
+County Votes Screenshot from results of code
 _
 - In County Jefferson, the total votes are 38, 855 and cover 10.5% in the precinct.
 - In County Denver, the total votes are 306,055 and attribute to 82.8% in the precinct. 
@@ -32,7 +32,7 @@ County Denver had the largest number of votes
 
 ![Candidates Vote](https://github.com/irisyidi/Election_Analysis_Module-3/blob/main/Candidates%20Vote.png)
 
-_Candidates Votes Screenshot from results of code _
+Candidates Votes Screenshot from results of code
 
 - Charles Casper Stockham earned 85,213 votes, which contributed to 23% of total votes. 
 - Diana DeGette received 272,892 votes, covering 73.8% of total votes. 
@@ -48,11 +48,11 @@ Diana DeGette won the election. The vote count is 272,892 and the percentage of 
 ## **Election-Audit Summary**
 ![TerminalScreenshot](https://github.com/irisyidi/Election_Analysis_Module-3/blob/main/TerminalScreenshot.png)
 
-_Output from Terminal_
+Output from Terminal
 
 ![TextScreenshot](https://github.com/irisyidi/Election_Analysis_Module-3/blob/main/TextScreenshot.png)
 
-_Output from Text_
+Output from Text
 
 By creating the automation process through python, the code can be used to the elections where the total votes, the number of votes received by each candidates anad the related percentage of support are suppposed to be calculated in the process. The common examples of the situation when the script can be used are congressional districts and senatorial districts and local elections. 
 
