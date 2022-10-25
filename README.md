@@ -60,6 +60,6 @@ By creating the automation process through python, the code can be used to the e
 
 For the local elections, the votes information can be collected and transformed to a csv file with information of ID number, candidates name and county. The information needed are the winning candidates, winning count, winning percentage and each candidate’s votes, percentage, and name. Therefore, the code related to the county information such as creating the county list, calculating the total votes and the percentage in each county can be eliminated. 
 
-### **Example 2:  Senatorial Districts
+### **Example 2:  Senatorial Districts**
 
 For the election of senatorial districts, the necessary data we need to collect is that ID number, candidates name and the party that candidates belong to. The report of the elections results should include winning candidates, winning count, winning percentage, winning party and each candidates' votes, percentage and party. Therefore, the code for counting for the votes that each party has received should be created. If statement and for statement can be used to get the list of parties and count the number of voters for each party. 
