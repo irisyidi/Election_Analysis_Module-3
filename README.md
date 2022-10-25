@@ -18,7 +18,7 @@ The number of votes cast in this congressional election is 369,711.
 ![County Votes](https://github.com/irisyidi/Election_Analysis_Module-3/blob/main/County%20Votes.png)
 
 County Votes Screenshot from results of code
-_
+
 - In County Jefferson, the total votes are 38, 855 and cover 10.5% in the precinct.
 - In County Denver, the total votes are 306,055 and attribute to 82.8% in the precinct. 
 - In county Arapahoe, the total votes are 24,801 and contribute to 6.7% in the precinct. 
